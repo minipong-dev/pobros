@@ -82,9 +82,6 @@ export const LogoButtonImg = styled.img`
 `;
 
 export const StyledImg = styled.img`
-
-  border-radius: 50px;
-  border: 5px #000000 solid;
   
   width: 250px;
   @media (min-width: 900px) {
@@ -412,8 +409,7 @@ function App() {
 
                     <br />
                     <br />
-                    <StyledLogo alt={"logo"} src={"/config/images/logo.png"} />
-                    <br />
+                    <StyledLogo alt={"logo"} src={"/config/images/logo_tr.png"} />
                     <br />
 
 
@@ -421,14 +417,14 @@ function App() {
 
                 <div class="flexbox-container">
                     <div class="flexbox-item">
-                        <StyledImg alt={"example"} src={"/config/images/example.jpg"} />
+                        <StyledImg alt={"example"} src={"/config/images/box.png"} />
                     </div>
                     <div class="flexbox-item flexbox-item-1">
                         <s.TextDescription
 
                             style={{
                                 textAlign: "center",
-                                color: "white",
+                                color: "navy",
                                 fontWeight: "normal",
                                 fontFamily: "customfont",
                                 fontSize: "32px"
