@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x288e76fc06359a759ee9947aec107609aa1d60fe",
+  "SCAN_LINK": "https://etherscan.io/address/0x288e76fc06359a759ee9947aec107609aa1d60fe",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "MosaicBirds",
+  "SYMBOL": "MOSAIC",
+  "MAX_SUPPLY": 6969,
+  "WEI_COST": 6900000000000000,
+  "DISPLAY_COST": 0.0069,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mosaicbirds",
+  "SHOW_BACKGROUND": true
+}
