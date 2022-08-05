@@ -134,6 +134,7 @@ body {
     "Droid Sans", "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  -webkit-text-stroke: 1px #000000;
 }
 
 * {
@@ -166,4 +167,5 @@ div {
   -ms-user-select: none;
   user-select: none;
   -o-user-select: none;
+  -webkit-text-stroke: 1px #000000;
 }

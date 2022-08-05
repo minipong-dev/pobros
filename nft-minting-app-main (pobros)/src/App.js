@@ -424,14 +424,15 @@ function App() {
 
                             style={{
                                 textAlign: "center",
-                                color: "navy",
+                                color: "white",
                                 fontWeight: "normal",
                                 fontFamily: "customfont",
-                                fontSize: "32px"
+                                fontSize: "32px",
+                                
 
                             }}
                         >
-                            Everyone may mint 1 Mosaic Bird free of charge, but if you are extraordinarily fancy, you may mint additional Birds for .0069 each.
+                            Everyone may mint 1 Mosaic Bird free of charge, but if you are extraordinarily fancy, you may mint additional Birds for .0069 each
                         </s.TextDescription>
                     </div>
                 </div>
