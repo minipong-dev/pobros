@@ -1,0 +1,44 @@
+:root {
+  --primary: #ffffff;
+  --primary-text: #ffffff;
+  --secondary: #ff1dec;
+  --secondary-text: #ffffff;
+  --accent: #505050;
+  --accent-text: #ffffff;
+}
+
+
+@font-face {
+  font-family: "customfont";
+  src: url("./assets/Glamour.otf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.image {
+  width: 100%;
+}
+
+.flexbox-container {
+  display: flex;
+  flex-flow: row wrap;
+  width: 65%;
+}
+
+.flexbox-item {
+  display: flex;
+  flex-flow: row wrap;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 700px) {
+  .flexbox-item {
+    width: 100%;
+  }
+}
+
+.flexbox-item-1 {
+  padding: 30px;
+}
