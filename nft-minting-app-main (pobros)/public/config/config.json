@@ -6,13 +6,13 @@
     "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "MosaicBirds",
-  "SYMBOL": "MOSAIC",
-  "MAX_SUPPLY": 6969,
-  "WEI_COST": 6900000000000000,
-  "DISPLAY_COST": 0.0069,
+  "NFT_NAME": "Pobrobopobros",
+  "SYMBOL": "POBRO",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 15000000000000000,
+  "DISPLAY_COST": 0.015,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/mosaicbirds",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pobrobopobros",
   "SHOW_BACKGROUND": true
 }

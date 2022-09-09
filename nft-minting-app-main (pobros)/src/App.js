@@ -427,12 +427,16 @@ function App() {
                                 color: "white",
                                 fontWeight: "normal",
                                 fontFamily: "customfont",
-                                fontSize: "32px",
+                                fontSize: "28px",
                                 
 
                             }}
                         >
-                            Everyone may mint 1 Mosaic Bird free of charge, but if you are extraordinarily fancy, you may mint additional Birds for .0069 each
+                            A high flying adventure awaits!<br/>
+                            <br/>
+                            1111 pixel art game cartridges ready to be minted and played on Opensea!<br/>
+                            <br/>
+                            Mint yours now and let the fun begin!<br/>
                         </s.TextDescription>
                     </div>
                 </div>
@@ -534,7 +538,8 @@ function App() {
                                     }}
                                 >
 
-                                    3 free NFTs per wallet. Extras are .0069 each
+                                    OGs receive 1 free mint, and can mint more for just .015 eth below.<br/>
+                                    The public can mint for .02 eth and all wallets are limited to 10 per tx.<br/>
 
                                 </s.TextTitle>
                                 <s.SpacerXSmall />
