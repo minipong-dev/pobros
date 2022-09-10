@@ -1,15 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x288e76fc06359a759ee9947aec107609aa1d60fe",
-  "SCAN_LINK": "https://etherscan.io/address/0x288e76fc06359a759ee9947aec107609aa1d60fe",
+  "CONTRACT_ADDRESS": "0xd89ea46308ddf425091c5ada12ccb1fed6eb0f79",
+  "SCAN_LINK": "https://etherscan.io/address/0xd89ea46308ddf425091c5ada12ccb1fed6eb0f79",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 1
+    "ID": 4
   },
   "NFT_NAME": "Pobrobopobros",
   "SYMBOL": "POBRO",
   "MAX_SUPPLY": 1111,
-  "WEI_COST": 15000000000000000,
+  "WEI_COST_PUBLIC": 20000000000000000,
+  "WEI_COST_WL": 15000000000000000,
   "DISPLAY_COST": 0.015,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
