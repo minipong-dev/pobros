@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0xd89ea46308ddf425091c5ada12ccb1fed6eb0f79",
-  "SCAN_LINK": "https://etherscan.io/address/0xd89ea46308ddf425091c5ada12ccb1fed6eb0f79",
+  "CONTRACT_ADDRESS": "0x76e4588ededfc4f8d8b49581439f9074b0c1b6f4",
+  "SCAN_LINK": "https://etherscan.io/address/0x76e4588ededfc4f8d8b49581439f9074b0c1b6f4",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "Pobrobopobros",
   "SYMBOL": "POBRO",

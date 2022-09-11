@@ -675,7 +675,7 @@ function App() {
                         <a target="_blank" href={CONFIG.MARKETPLACE_LINK}>
                             <LogoButtonImg src="/config/images/OS_LOGO.png" />
                         </a>
-                        <a target="_blank" href="https://twitter.com/mosaic_birds">
+                        <a target="_blank" href="https://twitter.com/Pobrobopobros">
                             <LogoButtonImg src="/config/images/TWIT_LOGO.png" />
                         </a>
                         <a target="_blank" href={CONFIG.SCAN_LINK}>
